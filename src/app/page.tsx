@@ -55,7 +55,6 @@ export default function ApartmentLandingPage() {
           </div>
         </section>
         <Gallery />
-
         <Location />
 
         <section id="contact" className="w-full py-12 md:py-24 lg:py-32">
